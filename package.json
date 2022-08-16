@@ -7,10 +7,6 @@
     "test": "tests"
   },
   "workspaces": [
-    "cvat-data",
-    "cvat-core",
-    "cvat-canvas",
-    "cvat-canvas3d",
     "cvat-ui"
   ],
   "dependencies": {},
